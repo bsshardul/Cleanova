@@ -5,11 +5,11 @@
 #include <SinricProSwitch.h>
 
 // ==== WiFi & Sinric Pro Credentials ====
-#define WIFI_SSID     "Shardul's Galaxy S21 FE 5G"
-#define WIFI_PASS     "Shardul*S21fe"
-#define APP_KEY       "b5e7ee29-1b9a-4bab-b9e4-581218261ee3"
-#define APP_SECRET    "c4779a1a-bafa-4390-8748-24183b1175b5-326bf4f1-711c-4629-8e2d-62cadcffca7f"
-#define DEVICE_ID     "67f099c7947cbabd20ee17fd"
+#define WIFI_SSID     ""
+#define WIFI_PASS     ""
+#define APP_KEY       ""
+#define APP_SECRET    ""
+#define DEVICE_ID     ""
 
 // ==== Motor Pins ====
 #define IN1 D1
