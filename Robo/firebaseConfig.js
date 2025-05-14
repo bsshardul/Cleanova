@@ -4,12 +4,12 @@ import { getAuth } from 'firebase/auth';
 import { getDatabase, ref, set, push, remove, onValue } from "firebase/database";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyD_M6yuzszdfPpG5eawvi-pUE939AqASfA",
-  authDomain: "impetus2025.firebaseapp.com",
-  projectId: "impetus2025",
-  storageBucket: "impetus2025.appspot.com",
-  messagingSenderId: "309126068158",
-  appId: "1:309126068158:web:9ec4358e71313b9377ebef",
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
 };
 
 const app = initializeApp(firebaseConfig);
